@@ -1,1 +1,1 @@
-# variety of programs
+variety of programs which may or may not work
